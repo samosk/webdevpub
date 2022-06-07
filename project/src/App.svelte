@@ -71,7 +71,7 @@ div{
     
     top: 20%;
     
-    margin: 0;
+    margin-bottom: 100px;
     position: absolute;
     display: flex;
     grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
@@ -81,7 +81,7 @@ div{
     
     top: 50%;
     
-    margin: 0;
+    margin-top: 100px;
     position: absolute;
     display: flex;
     grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
